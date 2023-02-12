@@ -10,7 +10,7 @@
 
 #### The plugin will announce the current number of hp when someonne dies
 
-### You can't reach 0 hp
+#### You can't reach 0 hp
 
 
 #### Adds 2 crafting recipes for "Stew of Life" and "Stew of Imortality"
