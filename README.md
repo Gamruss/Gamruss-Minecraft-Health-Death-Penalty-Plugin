@@ -8,7 +8,7 @@
 #### Everytime you die you will lose 2 health
 
 
-#### The plugin will announce the current number of hp when someonne dies
+#### The plugin will announce the current number of max hp when someonne dies
 
 #### You can't reach 0 hp
 
