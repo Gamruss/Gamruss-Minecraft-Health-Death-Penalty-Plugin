@@ -1,4 +1,4 @@
-# Minecraft Health Death Penalty Plugin
+# Minecraft Health Death Penalty Plugin Spigot
 ## This Plugin was created to make my SMP more interesting
 
 
