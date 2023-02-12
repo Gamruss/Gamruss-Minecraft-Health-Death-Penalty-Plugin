@@ -1,0 +1,4 @@
+spigotplugin\deathpenalty\Listeners\PlayerListener.class
+spigotplugin\deathpenalty\DeathPenalty.class
+spigotplugin\deathpenalty\Listeners\hpRenewClick.class
+spigotplugin\deathpenalty\Listeners\hpCraftings.class

@@ -1,0 +1,5 @@
+name: DeathPenalty
+version: '${project.version}'
+main: spigotplugin.deathpenalty.DeathPenalty
+api-version: 1.19
+description: DeathPenalty after death
