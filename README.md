@@ -1,6 +1,6 @@
 # Minecraft Health Death Penalty Plugin Spigot
 ## This Plugin was created to make my SMP more interesting
-
+## [Download](https://github.com/Gamruss/Minecraft-Health-Death-Penalty-Plugin-Spigot/releases/tag/Versions)
 
 ### What it does?
 
