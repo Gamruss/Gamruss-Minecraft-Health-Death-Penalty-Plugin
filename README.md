@@ -13,7 +13,7 @@
 #### * You can't reach 0 hp
 
 
-#### * Adds 2 crafting recipes for "Stew of Life" and "Stew of Imortality"
+#### * Adds 2 crafting recipes for "Stew of Life" and "Stew of Immortality"
 
 
 #### Default shapeless crafting for Stew of Life (You can get MAX 20 health with it, adds 1 health per bowl)
