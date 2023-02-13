@@ -5,15 +5,15 @@
 ### What it does?
 
 
-#### Everytime you die you will lose 2 health
+#### * Everytime you die you will lose 2 health
 
 
-#### The plugin will announce the current number of max hp when someonne dies
+#### * The plugin will announce the current number of max hp when someonne dies
 
-#### You can't reach 0 hp
+#### * You can't reach 0 hp
 
 
-#### Adds 2 crafting recipes for "Stew of Life" and "Stew of Imortality"
+#### * Adds 2 crafting recipes for "Stew of Life" and "Stew of Imortality"
 
 
 #### Default shapeless crafting for Stew of Life (You can get MAX 20 health with it, adds 1 health per bowl)
